@@ -13,8 +13,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=QuincyThawne&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
   <br>
-  <img src="https://stats.quira.sh/janeeshp/github?theme=solarized-dark" width="53%" alt="Quira Stats"/>
-  <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=QuincyThawne&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
 </div>
   
