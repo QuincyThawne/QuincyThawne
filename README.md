@@ -7,7 +7,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuincyThawne&theme=onedark" width="45%" alt="Productive Time"/>
   <br>
   <br>
-  <img src="https://github.com/QuincyThawne/QuincyThawne/blob/output/github-snake-dark.svg" alt="snake gif" width="90%"/>
+  <img src="https://github.com/QuincyThawne/QuincyThawne/blob/main/yuji%20itadori.gif" alt="yuji gif" width="90%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuincyThawne&theme=dracula" width="47%" alt="Streak Stats"/>
   <br>
   <br>
