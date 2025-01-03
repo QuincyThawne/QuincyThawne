@@ -1,12 +1,20 @@
 <div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuincyThawne&theme=radical" width="45%" alt="Most Commit Language"/>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuincyThawne&theme=merko" width="45%" alt="Repos Per Language"/>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuincyThawne&theme=tokyonight" width="45%" alt="Stats"/>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QuincyThawne&theme=onedark" width="45%" alt="Productive Time"/>
-  <img src="https://github.com/QuincyThawne/QuincyThawne/blob/output/github-snake-dark.svg" alt="snake gif" width="90%"/>
+  <br>
+  <img src="https://github.com/janeeshgithub/janeeshgithub/blob/output/github-snake-dark.svg" alt="snake gif" width="90%"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuincyThawne&theme=dracula" width="47%" alt="Streak Stats"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=QuincyThawne&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
+  <br>
   <img src="https://stats.quira.sh/janeeshp/github?theme=solarized-dark" width="53%" alt="Quira Stats"/>
+  <br>
   <img src="https://github-contributor-stats.vercel.app/api?username=QuincyThawne&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
 </div>
   
