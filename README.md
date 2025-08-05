@@ -8,11 +8,12 @@
   <br>
   <br>
   <img src="https://github.com/QuincyThawne/QuincyThawne/blob/main/yuji%20itadori.gif" alt="yuji gif" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuincyThawne&theme=dracula" width="47%" alt="Streak Stats"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=QuincyThawne&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
+
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=QuincyThawne&show_icons=true&locale=en&theme=highcontrast" width="45%" alt="GitHub Stats"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=QuincyThawne&limit=10&theme=material-palenight&combine_all_yearly_contributions=true" width="45%" alt="Contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QuincyThawne&theme=dracula" width="47%" alt="Streak Stats"/>
   <br>
 </div>
   
