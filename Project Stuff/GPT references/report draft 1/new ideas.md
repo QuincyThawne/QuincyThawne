@@ -1,0 +1,4 @@
+- pcap file upload and generate mermaid diagram of traffic data and analytics using RAG-LLM
+- everytime the user logs in a new session name/id is created and all of the user's network activity should be logged in pcap for later use this includes scans and recon
+- any and all recon tools available in python/kali
+- set a target address and run a list of tests/works and generate a report
